@@ -1,0 +1,40 @@
+Python Crashcourse
+
+-- python installed. 
+-- python 3
+-- no semicolon
+-- file extension is py
+
+Progress - https://youtu.be/JJmcL1N2KQs?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&t=1059
+
+Comment
+
+# - single line comment
+
+Print
+
+- in python 3 print('')
+
+'''
+This is a 
+multiline comment
+or docstring (used to define a functions purpose)
+can be single or double quotes
+'''
+
+VARIABLE
+variables.py
+RULES:
+- Variable names are case sensitive (name and NAME are different variables)
+- Must start with a letter or an underscore
+- Can have numbers but can not start with one
+- strings can have single or double quotes
+- for boolean True or False(not lowercase)
+- multiple assignmnent can be done for variables on a single line --> x, y, name, is_cool = (1, 2.5, 'John', True)
+- check type of variable --> print(type(x))
+- Casting x = str(x) y = int(y)
+
+STRINGS
+strings.py
+
+- Strings in python are surrounded by either single or double quotation marks
