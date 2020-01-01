@@ -5,7 +5,7 @@ Python Crashcourse
 -- no semicolon
 -- file extension is py
 
-Progress - https://youtu.be/JJmcL1N2KQs?list=PLillGF-RfqbbJYRaNqeUzAb7QY-IqBKRx&t=1059
+Progress - https://youtu.be/JJmcL1N2KQs?t=2536
 
 Comment
 
@@ -38,3 +38,18 @@ STRINGS
 strings.py
 
 - Strings in python are surrounded by either single or double quotation marks
+
+LISTS
+
+-- A List is a collection which is ordered and changeable. Allows duplicate members. (same as array in JS)
+
+TUPLES and sensitive
+
+-- A Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+-- A Set is a collection which is unordered and unindexed. No duplicate members.
+
+-- tuple with one element needs trailing comma or else it is considered as string
+
+DICTIONARY
+
+-- A Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
