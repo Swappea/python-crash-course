@@ -5,7 +5,7 @@ Python Crashcourse
 -- no semicolon
 -- file extension is py
 
-Progress - https://youtu.be/JJmcL1N2KQs?t=2536
+Progress - DONE
 
 Comment
 
@@ -53,3 +53,44 @@ TUPLES and sensitive
 DICTIONARY
 
 -- A Dictionary is a collection which is unordered, changeable and indexed. No duplicate members.
+
+FUNCTIONS
+
+-- A function is a block of code which only runs when it is called. In Python, we do not use parentheses and curly brackets, we use indentation with tabs or spaces
+
+LAMBDA FUNCTIONS
+
+-- A lambda function is a small anonymous function.
+-- A lambda function can take any number of arguments, but can only have one expression. Very similar to JS arrow functions
+
+CONDITIONALS
+-- If/ Else conditions are used to decide to do something based on something being true or false
+-- Comparison Operators (==, !=, >, <, >=, <=) - Used to compare values
+-- Logical operators (and, or, not) - Used to combine conditional statements
+-- Membership Operators (not, not in) - Membership operators are used to test if a sequence is presented in an object
+-- Identity Operators (is, is not) - Compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
+
+LOOPS
+
+-- A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).
+-- While loops execute a set of statements as long as a condition is true.
+
+MODULES
+
+-- A module is basically a file containing a set of functions to include in your application. There are core python modules, modules you can install using the pip package manager (including Django) as well as custom modules
+
+PIP
+-- pip is python package manager
+-- pip freeze -- show all global python package installed
+
+CLASSES
+
+-- A class is like a blueprint for creating objects. An object has properties and methods(functions) associated with it. Almost everything in Python is an object
+-- self is equivalent to this in JS or java
+
+FILES
+
+-- Python has functions for creating, reading, updating, and deleting files.
+
+JSON
+-- JSON is commonly used with data APIS. Here how we can parse JSON into a Python dictionary
